@@ -1,6 +1,4 @@
-# WA-02
-
-Pub/Sub exercise
+# Pub/Sub exercise
 
 https://cloud.google.com/run/docs/tutorials/pubsub
 https://github.com/GoogleCloudPlatform/golang-samples/tree/main/run/pubsub
